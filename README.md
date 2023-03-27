@@ -16,6 +16,8 @@ Welcome to my Github page! I am Pedro and I am currently finishing my Geomatic E
 
 - 🎓 &nbsp; Studying Geomatic Engineering.
 
+- :earth_americas:  Script development with geospatial applications 
+
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
